@@ -1,0 +1,122 @@
+
+
+.nv-txt{
+    transition-timing-function: linear;
+    font-family: 'Unica One', cursive;
+    font-size: 22px;
+    color: rgb(165, 165, 165) !important;
+    
+    letter-spacing: 0.3rem;
+    text-shadow: 0.5px 0.5px #000000;
+    
+}
+
+.active{
+  color: white !important;
+  -webkit-transition:  color 1s ease-in-out;
+}
+
+
+
+
+  .slider{
+    /*
+    background: url("../images/abstract.jpg");
+    height: 30vh;
+    background-size: cover;
+    background-position: center;
+    background-color: black;
+    */
+
+    background: url("../images/abstract.jpg");
+    height: 50vh;
+    background-size: cover;
+    background-position: center;
+    background-color: black;
+
+  }
+
+  .d1{
+    background: url("../images/p2.jpg");
+    height: 50vh;
+    background-size: cover;
+    background-position: center;
+    background-color: black;
+
+  }
+  .d2{
+    background: url("../images/p2.jpg");
+    height: 50vh;
+    background-size: cover;
+    background-position: center;
+    background-color: black;
+
+  }
+  .d3{
+    background: url("../images/p2.jpg");
+    height: 50vh;
+    background-size: cover;
+    background-position: center;
+    background-color: black;
+
+  }
+  
+
+  .mybtn{
+    
+    width: 240px;
+    height: 40px;;
+    color: #ffffff !important;
+    border-color: rgb(65, 64, 64) !important;
+    background-color: rgb(65, 64, 64);
+    border-radius: 20px !important;
+    border: 2px solid rgb(65, 64, 64);
+    text-shadow: 0.8px 0.8px #000000;
+    transition-delay: 0.1s;
+  }
+  
+  .mybtn:hover{
+    color: white !important;
+    border-color: white !important; 
+    background-color: #ffffff00;
+    transition-delay: 0.1s;
+  }
+  
+
+  .title{
+    font-family: 'ParisiRenne', cursive;
+    font-size: 120px;
+    color: orange;
+    text-shadow: 1px 1px black;
+  }
+
+  .nav-color{
+      background-color: rgb(65, 64, 64) !important;
+      margin: 0px !important;
+      padding: 0px !important;
+  }
+
+  .txt{
+    font-family: 'Playfair Display', serif;
+    color: white;
+    font-size: 24px;
+    text-shadow: 2px 2px #000000;
+    
+  }
+
+  .txt-p{
+    text-shadow: 2px 2px #000000;
+  }
+
+  h1{
+    color : white;
+    text-shadow: 1.5px 1.5px black;
+  }
+
+ 
+
+  
+
+
+
+
